@@ -1,0 +1,6 @@
+The algorithm I used was Jacobi's method.
+I'm not sure if it works correctly for the Dow Jones Indexes but I have the Jacobi's method working fine on another matrix . I had a difficult time deriving a general Jacobi's method.
+
+I got my Dow Jones data from the following URL:
+http://table.finance.yahoo.com/k?s=^dji&g=d
+
