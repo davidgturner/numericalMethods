@@ -1,10 +1,4 @@
-/** 
-    David Turner
-    101-50-3291
-    AMS 321 HW3
-*/
-
-/** 
+/**
     this class calculates the # of months needed to pay off a loan with a given amount of principal and 
     interest rate
 */

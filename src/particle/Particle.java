@@ -1,8 +1,3 @@
-/**
- * David Turner
- * AMS 321 Project 6
- */
-
 public class Particle {
 
 private double x;

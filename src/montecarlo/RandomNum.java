@@ -1,6 +1,4 @@
-import java.text.*;
-import java.awt.*;
-import javax.swing.*;
+import java.text.DecimalFormat;
 
 public class RandomNum {
 

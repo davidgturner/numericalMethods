@@ -1,9 +1,3 @@
-/**
-David turner
-101-50-3291
-AMS 321 Homework 5
-*/
-
 public class City
 {
     /** x coordinate */

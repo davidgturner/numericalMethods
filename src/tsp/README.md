@@ -1,5 +1,3 @@
-David Turner
-AMS 321 Homework 5
 
 Problem 1 (10 Points):  A traveling salesman must visit nine cities at least once. Please design a method (any method, brute force or novel) to find the shortest-distance path. We further assume City 1 is the starting city and any order for the subsequent cities which can be chosen to minimize the distance. In this project, you would need to do the following 
 A.	algorithm you use for the optimization; 

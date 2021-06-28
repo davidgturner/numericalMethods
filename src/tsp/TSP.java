@@ -1,10 +1,4 @@
-/**
-David turner
-101-50-3291
-AMS 321 Homework 5
-*/
-
-import java.util.*;
+import java.util.Vector;
 
 /**
  traveling salesman problem to find the shortest path from the starting city to make

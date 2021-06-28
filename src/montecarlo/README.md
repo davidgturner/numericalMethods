@@ -1,6 +1,3 @@
-David Turner
-AMS 321
-Project 2
 
 Problem Description
 part a of the assignment required us to create 1000000 uniform random numbers and 

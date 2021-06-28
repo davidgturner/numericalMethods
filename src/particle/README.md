@@ -1,8 +1,3 @@
-/**
- * David Turner
- * AMS 321 Project 6
- */
-
 Problem 1 (10 points): 
 
 (1)	Generate all possible integer pairs (x, y) inside a disk whose boundary equation is x^2 +y^2=10^2.

@@ -1,10 +1,4 @@
-/**
- * David Turner
- * 101-50-3291
- * AMS 321 Project 6
- */
-
-import java.util.*;
+import java.util.Vector;
 
 public class Pairs {
 

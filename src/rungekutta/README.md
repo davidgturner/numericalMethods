@@ -1,6 +1,3 @@
-David Turner	
-AMS 321 Project 4
-
 Problem Description
 -------------------
 Write a program to use the fourth order Runge-Kutta algorithm
