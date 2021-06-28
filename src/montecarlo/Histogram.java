@@ -1,7 +1,6 @@
-import java.awt.*;
-import java.awt.geom.*;
 import javax.swing.*;
-import java.text.*;
+import java.awt.*;
+import java.text.DecimalFormat;
 
 public class Histogram extends JFrame
 {
